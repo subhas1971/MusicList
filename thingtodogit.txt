@@ -3,3 +3,9 @@ git add -A
 git commit -m "Stage you are in"
 
 git push
+
+nodeman yarn start
+
+yarn run start-w
+
+yarn start npm
